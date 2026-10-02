@@ -1,2 +1,7 @@
-# scripturemosaicapp-site
-Official website for Scripture Mosaic: Bible Study
+# Scripture Mosaic Website
+
+Official static website for **Scripture Mosaic: Bible Study**.
+
+- https://scripturemosaicapp.com/
+- https://scripturemosaicapp.com/privacy/
+- https://scripturemosaicapp.com/support/
